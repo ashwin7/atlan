@@ -15,3 +15,7 @@
 - By writing custom CSS and using mostly tailwind classes.
 - Checking for unnecessary re-renders and fixing them
   
+
+| Performance (Lighthouse): |
+| ------------------------- |
+| <img src="https://github.com/ashwin7/atlan/blob/main/screenshots/lighthouse.png" /> |
