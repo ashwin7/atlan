@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem;
+  padding-bottom: 0rem;
+  text-align: center;
+}
+
+.logo {
+  padding: 1em;
+  min-height: 5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 3em #585eceaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 3em #29839caa);
+}
+
+.card {
+  padding: 2em;
+}
+
