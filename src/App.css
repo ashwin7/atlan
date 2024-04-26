@@ -86,10 +86,6 @@ button {
   cursor: pointer;
 }
 
-.heading {
-  color: #ddd;
-}
-
 .video-bg {
   position: fixed;
   right: 0;
