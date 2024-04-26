@@ -19,3 +19,7 @@
 | Performance (Lighthouse): |
 | ------------------------- |
 | <img src="https://github.com/ashwin7/atlan/blob/main/screenshots/lighthouse.png" /> |
+
+| Page Load (Chrome Devtools): |
+| ------------------------- |
+| <img src="https://github.com/ashwin7/atlan/blob/main/screenshots/pageload.PNG" /> |
